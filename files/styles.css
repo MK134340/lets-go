@@ -1,1 +1,15 @@
-/* Add your styles here */
+title {padding: 10px;
+
+    font-size: 15px;
+    
+    font-weight: bold;
+    
+    background-color: #c7980b;
+    
+    border: solid}
+    p {border-width: 3px;
+
+        color: #423e34;
+        
+        margin-top: 40px;
+        font-family: sans-serif}
